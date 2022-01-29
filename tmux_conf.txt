@@ -1,5 +1,5 @@
-# prefixキーをC-fに変更する
-set -g prefix C-f
+# prefixキーをC-tに変更する
+set -g prefix C-t
 
 # prefix+\でペインを垂直分割する
 bind \\ split-window -h
